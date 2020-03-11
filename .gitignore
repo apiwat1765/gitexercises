@@ -3,3 +3,10 @@
 
 # Ada Library Information
 *.ali
+
+#My ignore
+.*exe
+.*o
+.*jar
+libraries/
+
