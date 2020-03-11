@@ -5,8 +5,8 @@
 *.ali
 
 #My ignore
-.*exe
-.*o
-.*jar
+*.exe
+*.o
+*.jar
 libraries/
 
